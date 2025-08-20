@@ -1,4 +1,4 @@
-package com.email.writer.smartemailassistant;
+package com.email.writer.smartemailassistant.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

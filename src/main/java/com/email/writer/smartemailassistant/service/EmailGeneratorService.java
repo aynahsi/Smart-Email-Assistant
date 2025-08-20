@@ -1,6 +1,7 @@
-package com.email.writer.smartemailassistant;
+package com.email.writer.smartemailassistant.service;
 
 
+import com.email.writer.smartemailassistant.dto.EmailRequest;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,4 +1,4 @@
-package com.email.writer.smartemailassistant;
+package com.email.writer.smartemailassistant.dto;
 
 import lombok.Data;
 
